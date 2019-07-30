@@ -3,6 +3,5 @@
  
  
 > Requirements :
-**************************
 ### Node js
 ### uglifyjs
